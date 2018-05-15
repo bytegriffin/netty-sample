@@ -45,8 +45,5 @@ public class SimpleClientHandler extends ChannelInboundHandlerAdapter{
 		ctx.write(encoded);
 		ctx.flush();
 	}
-	
-	
-	
-	
+
 }
