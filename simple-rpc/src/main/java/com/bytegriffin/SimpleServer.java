@@ -23,8 +23,8 @@ public class SimpleServer {
 	}
 
 	public void run() throws Exception {
-		EventLoopGroup bossGroup = new NioEventLoopGroup();// 处理所有连接
-		EventLoopGroup workerGroup = new NioEventLoopGroup();// 处理已经接收的连接
+		EventLoopGroup bossGroup = new NioEventLoopGroup();// 处理所有客户端连接
+		EventLoopGroup workerGroup = new NioEventLoopGroup();// 处理io读写
 
 		try {
 			ServerBootstrap b = new ServerBootstrap();

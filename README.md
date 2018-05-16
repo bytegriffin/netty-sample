@@ -1,6 +1,7 @@
 ## spring-cloud相关示例代码
 
-* 简单rpc例子：simple-rpc
-
+* jdk自带的socket：jdk-api
+* 简单rpc：simple-rpc
+* 丢弃服务：discard
 
 

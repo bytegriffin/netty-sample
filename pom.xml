@@ -14,10 +14,10 @@
 	</properties>
 
 	<modules>
-		<module>persistent-connection</module>
+		<module>jdk-api</module>
 		<module>simple-rpc</module>
-    	<module>jdk-api</module>
-  </modules>
+		<module>discard</module>
+	</modules>
 
 	<dependencies>
 		<dependency>
