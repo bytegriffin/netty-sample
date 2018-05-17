@@ -1,4 +1,4 @@
-# spring-cloud-sample
+# netty-sample
 
 Echo回写服务<br>
 区别于discard服务是Echo Server会将Echo Client请求的数据返回给客户端，
