@@ -4,4 +4,4 @@
 * 简单rpc：simple-rpc
 * 丢弃服务：discard
 * 重连机制：uptime
-
+* 模拟telnet：telnet
