@@ -17,7 +17,8 @@
 		<module>jdk-api</module>
 		<module>simple-rpc</module>
 		<module>discard</module>
-	</modules>
+    <module>echo</module>
+  </modules>
 
 	<dependencies>
 		<dependency>
