@@ -22,6 +22,7 @@
 		<module>telnet</module>
 		<module>broadcast</module>
     <module>object-echo</module>
+    <module>factorial</module>
   </modules>
 
 	<dependencies>

@@ -8,4 +8,7 @@
 * 重连机制：uptime
 * 模拟telnet：telnet
 * broadcast服务：broadcast
+* 求阶乘：factorial
+
+
 
