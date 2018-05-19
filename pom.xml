@@ -27,6 +27,7 @@
 	    <module>http-snoop</module>
 	    <module>http-static-file-server</module>
 	    <module>http-websocket</module>
+	    <module>proxy-server</module>
 	</modules>
 
 	<dependencies>
