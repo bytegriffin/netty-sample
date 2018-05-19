@@ -26,6 +26,7 @@
 	    <module>worldclock</module>
 	    <module>http-snoop</module>
 	    <module>http-static-file-server</module>
+	    <module>http-websocket</module>
 	</modules>
 
 	<dependencies>
