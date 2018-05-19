@@ -21,11 +21,12 @@
 		<module>uptime</module>
 		<module>telnet</module>
 		<module>broadcast</module>
-    <module>object-echo</module>
-    <module>factorial</module>
-    <module>worldclock</module>
-    <module>http-snoop</module>
-  </modules>
+	    <module>object-echo</module>
+	    <module>factorial</module>
+	    <module>worldclock</module>
+	    <module>http-snoop</module>
+	    <module>http-static-file-server</module>
+	</modules>
 
 	<dependencies>
 		<dependency>

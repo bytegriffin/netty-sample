@@ -9,6 +9,12 @@
 * 模拟telnet：telnet
 * broadcast服务：broadcast
 * 求阶乘：factorial
-* Http监听：http snoop
+* Http监听：http-snoop
+* Http静态文件服务器：http-static-file-server
+
+
+
+
+
 
 
