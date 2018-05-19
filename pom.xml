@@ -23,6 +23,8 @@
 		<module>broadcast</module>
     <module>object-echo</module>
     <module>factorial</module>
+    <module>worldclock</module>
+    <module>http-snoop</module>
   </modules>
 
 	<dependencies>
