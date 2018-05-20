@@ -28,7 +28,8 @@
 	    <module>http-static-file-server</module>
 	    <module>http-websocket</module>
 	    <module>proxy-server</module>
-	</modules>
+    <module>port-unification</module>
+  </modules>
 
 	<dependencies>
 		<dependency>
