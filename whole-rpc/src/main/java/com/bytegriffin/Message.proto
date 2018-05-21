@@ -1,0 +1,17 @@
+syntax = "proto2";
+
+option java_package = "com.bytegriffin";
+option java_outer_classname = "Message";
+
+message Request {
+  required string url = 1;
+  required string content=2;
+  required string status=3;
+  required string requestId=4;
+};
+
+message Response {  
+  required string requestId = 1;
+  required string status = 2;  
+  required string desc = 3;  
+};

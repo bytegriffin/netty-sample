@@ -2,6 +2,7 @@
 
 * jdk自带的socket：jdk-api
 * 简单rpc：simple-rpc
+* 较完整rpc：whole-rpc
 * 丢弃服务：discard
 * Echo服务：echo
 * Object Echo服务：object-echo

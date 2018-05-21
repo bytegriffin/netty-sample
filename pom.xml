@@ -29,6 +29,7 @@
 	    <module>proxy-server</module>
     	<module>port-unification</module>
     	<module>udt-p2p</module>
+    	<module>whole-rpc</module>
   </modules>
 
 	<dependencies>
