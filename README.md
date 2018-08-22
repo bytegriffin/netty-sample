@@ -17,7 +17,8 @@
 * 多协议：port-unification
 * p2p服务：udt-p2p
 
-
+# License
+[Apache 2.0 License.](/LICENSE)
 
 
 
